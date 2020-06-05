@@ -1,0 +1,6 @@
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\FTP\Client\Client\bin\Debug\Client.exe.config
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\FTP\Client\Client\bin\Debug\Client.exe
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\FTP\Client\Client\bin\Debug\Client.pdb
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\FTP\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\FTP\Client\Client\obj\Debug\Client.exe
+C:\Users\m1rr0\OneDrive\Рабочий стол\UNI\Работы\2 курс\Сети\FTP\Client\Client\obj\Debug\Client.pdb
